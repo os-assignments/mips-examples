@@ -124,7 +124,7 @@ less_than_1:
 
 	# Here we know that $t0 < $t1.
 
-	la $a0, yes	# Load the addres of sting to print.
+	la $a0, yes	# Load the address of string to print.
 
 print_1:
 
